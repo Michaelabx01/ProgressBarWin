@@ -32,6 +32,9 @@ El widget `ProgressBarWin` es un componente interactivo que permite visualizar y
 - **Botón de Reinicio**: Reinicia el progreso a 0%.
 - **Botón Flotante**: Puede usarse para incrementar manualmente el progreso en un 2% con un clic o para iniciar un incremento automático al mantenerlo presionado.
 
+
+https://github.com/user-attachments/assets/efd88d2b-813c-45b6-8797-db015273197e
+
 ## Uso
 
 Para usar este widget, simplemente inclúyelo en tu aplicación de Flutter:
